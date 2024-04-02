@@ -1,0 +1,10 @@
+{
+  "name": "straumann-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/straumann-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["straumann"],
+  "// targets": "to see all targets run: nx show project straumann-e2e --web",
+  "targets": {}
+}
